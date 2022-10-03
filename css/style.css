@@ -36,7 +36,6 @@ h1 {
 }
 
 .card {
-    /*float: left;*/
     display: inline-block;
     width: 15%;
     margin-left: 10%;
